@@ -1,5 +1,5 @@
 body {
-  background: #f8e8a6;
+  background: pink;
 }
 
 h1,
@@ -12,7 +12,6 @@ img {
   border-radius: 10px;
   display: block;
   margin: 30px auto;
-}
 }
 
 footer {
